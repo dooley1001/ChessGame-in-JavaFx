@@ -1,3 +1,5 @@
+![Lang](https://img.shields.io/badge/Language-Javafx-red.svg)
+
 # ChessGame-in-JavaFx 
 
 
